@@ -1,13 +1,10 @@
-## i'm llbob
+1. llbob: broadcasting from the lower stack, good reviews only.
 
-we're probably quite similar.
+3. rumor whisperer.
 
-i'm slowly starting to publish som repositories to share a few of my side projects with the world.
+3. 
 
-thanks. bye. 
+7. also slowly starting to share some of my projects with the world.
 
-✨ _llbob_ ✨
-
-<!-- :) -->
 
 
