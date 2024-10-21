@@ -1,9 +1,13 @@
-## Hello, i'm llbob
+## i'm llbob
 
-<!--
-**llbob/llbob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+we're probably quite similar.
 
-i'm into software, politics, arts, and nature?
+i'm slowly starting to publish som repositories to share a few of my side projects with the world.
+
+thanks. bye. 
+
+✨ _llbob_ ✨
 
 <!-- :) -->
+
+
