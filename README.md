@@ -16,4 +16,4 @@
 ### his background
 he used to spent a lot of time being immersed in online worlds, at some point his interest in exploring these worlds faded and turned into a wanting to create instead - this is still what drives him - these first online experiences of community and exploration on forums and in vast massively multiplayer online games.
 
-![image](https://github.com/user-attachments/assets/8f3fe1f8-b00b-4710-89af-01a9cab1366f)
+![llbob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llbob&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
