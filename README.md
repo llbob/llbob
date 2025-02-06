@@ -4,17 +4,15 @@
 
 **tech stack**
 
-frontend: TypeScript, React, Next.js, (HTML/CSS),
-backend: Node.js, Deno, PHP,
+frontend: TypeScript, React, Next.js, (HTML/CSS), Fresh
+backend: Node.js, Deno, PHP, golang
 cms: WordPress, Builder.io, TinaCMS,
 etc: Figma, Adobe Creative Suite, Ableton,
 
 **current focus**
-
-exploring deno and fresh,
-building with next.js and it's not always great,
-self-hosting,
-DIY electronics,
+exploring and implementing point to hyperplane nearest neighbor search algorithms in golang,
+having fun with next.js for silly hobby projects,
+self-hosting, 3d printing
 
 </td>
 <td width="50%" valign="top">
